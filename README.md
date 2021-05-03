@@ -12,7 +12,7 @@
 ## General info
 Prakriti Organics was formed by concerned individuals from Farming, Food processing, Dairy, Agro Sciences & administration backgrounds who have deliberated about food crises and worked on developing solutions for improving quality of products and eco-system around it.
 This website was the goal of our internship during 2020 summer and we completed the project in about 8 weeks. There were two members in the web developing team including myself.
-We started with creating a sitemap of the webstie, bootstrap was used as a frontend framework with HTML, CSS, JavaScript. Plugins like counter-up, owl carousel for sections such as testimonials, slider, status bar etc. using jQuery library were added. We discussed and brainstormed with the team everyday on online platform to remove any bugs and resolve any conflict in ideas. Then we took feedback from the team and customers, made changes in the UI. Designed modular code to ensure efficient change management.
+We started with creating a sitemap of the webstie, bootstrap was used as a frontend framework with HTML, CSS, JavaScript. Plugins like counter-up, owl carousel for sections such as testimonials, slider, status bar etc. using jQuery library were added. We discussed and brainstormed with the team everyday on online platform to remove any bugs and resolve any conflict in ideas. Then we took feedback from the team and customers, made changes in the UI. Designed modular code to ensure efficient change management. During the last stage of the project, our coordinator asked and guided us to convert teh files to .php instead of .html, so that it is easier to work with afterward. 
 
 ## Technologies
 * HTML
