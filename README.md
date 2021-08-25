@@ -32,11 +32,6 @@ The WebApp is compatible with devices of all sizes.
 ![Screenshot (97)](https://user-images.githubusercontent.com/82159394/116843166-b7e0bf80-abfc-11eb-81a1-04b1e81188c0.png)
 ![Screenshot (98)](https://user-images.githubusercontent.com/82159394/116843171-badbb000-abfc-11eb-852e-4f2fa0ca02c9.png)
 
-
-
-## Demo
-Here is a working live demo : http://prakritiorganics.rf.gd/PrakritiWebsite/index.php
-
 ## Status
 Project is: _finished_. Some images might be missing from the website as either they were not provided by the client or were removed afterwards.
 
